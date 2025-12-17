@@ -6,7 +6,7 @@
 
 **Decentralized AI Data Marketplace on Hive Blockchain**
 
-*Built for Code Hive Hackathon 2024*
+*Built for Code Hive Hackathon 2025*
 
 [![Hive](https://img.shields.io/badge/Hive-Blockchain-E31337?style=for-the-badge&logo=hive&logoColor=white)](https://hive.io)
 [![VSC](https://img.shields.io/badge/VSC-Integrated-7B3FF2?style=for-the-badge)](https://magi.network)
