@@ -14,7 +14,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
-[Live Demo](#) • [Documentation](#-documentation) • [Hackathon Submission](./HACKATHON.md)
+[Demo](https://youtu.be/bDaagxxZlF0?si=gyT1I_cdBoxya7hS) • [Documentation](#-documentation) • [Hackathon Submission](./HACKATHON.md)
 
 </div>
 
