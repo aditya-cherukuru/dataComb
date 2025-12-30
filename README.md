@@ -379,7 +379,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 - **Hive**: [@aditya-cherukuru](https://hive.blog/@aditya-cherukuru)
 - **GitHub**: [github.com/aditya-cherukuru/datacomb](https://github.com/aditya-cherukuru/datacomb)
 - **Discord**: Code Hive Discord Server
-- **Live Demo**: [Coming Soon]
+- **Demo**: [demo link](https://youtu.be/bDaagxxZlF0?si=gyT1I_cdBoxya7hS)
 
 ---
 
@@ -395,7 +395,7 @@ If you find DataComb interesting, please:
 
 <div align="center">
 
-**Built with ❤️ for the Code Hive Hackathon 2024**
+**Built with ❤️ for the Code Hive Hackathon 2025**
 
 *If you care about ethical AI, fair pay, and decentralized infrastructure, DataComb is built for you* 🧠🐝
 
